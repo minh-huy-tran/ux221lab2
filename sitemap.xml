@@ -7,16 +7,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/my-account/
         </loc>
     </url>
@@ -27,12 +17,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/lost-password/
+            http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/registration/
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/posts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sample-product-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/insulated-bag/
         </loc>
     </url>
     <url>
