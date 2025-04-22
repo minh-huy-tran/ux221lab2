@@ -2,7 +2,12 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/odd-job-1-delivery-driver/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/odd-job-2-mowing-lawns/
         </loc>
     </url>
     <url>
