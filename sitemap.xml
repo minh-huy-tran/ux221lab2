@@ -37,12 +37,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/insulated-bag/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/insulated-bag/
+            http://localhost:8000/products/lawn-mower/
         </loc>
     </url>
     <url>
