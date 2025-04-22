@@ -22,12 +22,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000/registration/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/
+            http://localhost:8000/
         </loc>
     </url>
     <url>
